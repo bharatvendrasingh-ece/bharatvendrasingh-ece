@@ -21,7 +21,7 @@
 
 ```typescript
 const bharatvendraSingh = {
-  title: "Electronics & Communication Engineering Student",
+  title: " Electronics & Communication Engineering Student",
   stack: {
     hardwareAndCore: ["VLSI / IC Design", "Embedded C", "Arduino", "Raspberry Pi", "ARM / 8051 MCU"],
     simulationTools: ["MATLAB / Simulink", "Proteus / Multisim", "Verilog / VHDL"],
