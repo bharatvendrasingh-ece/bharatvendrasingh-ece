@@ -51,7 +51,7 @@ const bharatvendraSingh = {
 > Wi-Fi-based home automation system to control appliances remotely — reduced manual effort by ~80%, with real-time DHT11 temperature & humidity monitoring on a Blynk mobile dashboard.
 
 <div align="center">
-<img src="https://readme-stats-bharatvendra.vercel.app/api/pin/?username=bharatvendrasingh-ece&repo=smart-home-automation-iot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bharatvendrasingh-ece&repo=smart-home-automation-iot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" />
 </div>
 
 | Layer | Technology |
@@ -71,7 +71,7 @@ const bharatvendraSingh = {
 > ESP32 + GPS-based safety device to help women reach out for assistance in difficult or emergency situations, using real-time location tracking.
 
 <div align="center">
-<img src="https://readme-stats-bharatvendra.vercel.app/api/pin/?username=bharatvendrasingh-ece&repo=women-security-system-esp32-&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bharatvendrasingh-ece&repo=women-security-system-esp32-&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" />
 </div>
 
 | Layer | Technology |
@@ -100,8 +100,8 @@ const bharatvendraSingh = {
 
 <div align="center">
 
-<img src="https://readme-stats-bharatvendra.vercel.app/api?username=bharatvendrasingh-ece&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" width="48%"/>
-<img src="https://readme-stats-bharatvendra.vercel.app/api/top-langs/?username=bharatvendrasingh-ece&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bharatvendrasingh-ece&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatvendrasingh-ece&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=bharatvendrasingh-ece&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
 
