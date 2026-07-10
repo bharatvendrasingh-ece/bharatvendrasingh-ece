@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Bharatvendra%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Bharatvendra%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/bharatvendrasingh-ece">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+%7C+VLSI+Enthusiast;Building+Smart+Home+%26+Safety+Solutions;Exploring+Fundamentals+of+AI" alt="Typing SVG" />
@@ -71,7 +71,7 @@ const bharatvendraSingh = {
 > ESP32 + GPS-based safety device to help women reach out for assistance in difficult or emergency situations, using real-time location tracking.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bharatvendrasingh-ece&repo=women-security-system-esp32&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bharatvendrasingh-ece&repo=women-security-system-esp32-&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" />
 </div>
 
 | Layer | Technology |
@@ -79,7 +79,7 @@ const bharatvendraSingh = {
 | Hardware | ESP32, GPS Module |
 | Function | Real-time location tracking & emergency alert |
 
-🔗 **Code:** [github.com/bharatvendrasingh-ece/women-security-system-esp32](https://github.com/bharatvendrasingh-ece/women-security-system-esp32)
+🔗 **Code:** [github.com/bharatvendrasingh-ece/women-security-system-esp32-](https://github.com/bharatvendrasingh-ece/women-security-system-esp32-)
 
 ---
 
@@ -126,8 +126,8 @@ const bharatvendraSingh = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatvendrasingh)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatvendrasingh626@email.com)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatvendrasingh626@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
