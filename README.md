@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Bharatvendra%20Singh&fontSize=50&animation=twinkling&fontColor=ffffff&desc=ECE%20Graduate&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=230&section=header&text=Bharatvendra%20Singh&fontSize=48&animation=twinkling&fontColor=ffffff&desc=ECE%20Graduate&descAlignY=75&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+IoT+%7C+VLSI+Design;Building+Smart+Home+%26+Safety+Solutions;Signal+Processing+%26+Circuit+Design+Enthusiast" />
 
